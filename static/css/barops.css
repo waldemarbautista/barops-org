@@ -1,0 +1,142 @@
+body {
+	background: #F7F7F7;
+}
+  body.home {
+  }
+.hidden {
+	display: none;
+}
+.starter-template {
+	padding: 40px 15px;
+	text-align: center;
+}
+	
+#content .panel {
+	border-radius: 0;
+	border: 0.5em solid #DDD;
+}
+
+#main-nav,
+#dashboard-nav {
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#main-nav li a,
+#dashboard-nav li a {
+  text-transform: uppercase;
+}
+
+#main-nav {
+	border: 0;
+	border-radius: 0;
+	background: #96281B;
+	font-size: 14px;
+  line-height: 20px;
+	margin: 0;
+  padding: 10px 0;
+}
+	#main-nav .navbar-brand {
+		color: #FFF;
+    font-size: 28px;
+    line-height: 20px;
+	}
+	#main-nav #navbar {
+		text-transform: uppercase;
+	}
+	#navbar > .navbar-nav > li > a {
+		color: #CCC;
+	}
+	#navbar > .navbar-nav > li > a:hover {
+		color: #FFF;
+	}
+	#navbar > .navbar-nav > .active > a,
+	#navbar > .navbar-nav > .open > a {
+		color: #FFFFFF;
+		font-weight: bold;
+		background: none;
+		box-shadow: none;
+	}
+	#navbar > .navbar-nav > .active > a:hover,
+	#navbar > .navbar-nav > .open > a:hover {
+		background: none;
+	}
+	#navbar .user-info {
+		color: #eee;
+		text-transform: none;
+		margin-right: 15px;
+	}
+	#navbar .user-info a {
+		color: #fff;
+		font-weight: bold;
+	}
+	#navbar .user-info a.btn-xs {
+		vertical-align: baseline;
+	}
+	
+	#navbar .login-form {
+		margin-top: 13px;
+		text-transform: none;
+	}
+	
+	#navbar .text-danger {
+		color: #eee;
+	}
+	
+#dashboard-nav {
+	background: #FFF;
+	border-bottom: 2px solid #EEEEEE;
+}
+
+#dashboard-nav .nav-pills > li > a {
+	border-radius: 0;
+	padding-top: 1.0em;
+	padding-bottom: 1.0em;
+}
+	#dashboard-nav .nav-pills > li > a:hover {
+		border-bottom: 2px solid #000;
+		margin-bottom: -2px;
+	}
+	
+.pagetitle {
+	font-size: 1.0em;
+	font-weight: bold;
+	padding-left: 15px;
+}
+.breadcrumb {
+	margin-bottom: 0;
+}
+.box-center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#content .btn-default {
+}
+	#content .btn-default:hover {
+	}
+
+#content .panel-heading {
+	background: none;
+	border-bottom: 0;
+}
+	.news .panel-heading .meta-data {
+		color: #666;
+		font-weight: bold;
+    display: block;
+	}
+#content .panel-heading h2 {
+	display: inline-block;
+	font-size: 2.0em;
+	font-weight: bold;
+	margin: 0;
+}
+
+#content .panel .panel-actions {
+	float: right;
+}
+	#content .panel-actions .form-inline {
+		margin-left: 2.0em;
+	}
+
+#content .pagination {
+	margin: 0;
+}

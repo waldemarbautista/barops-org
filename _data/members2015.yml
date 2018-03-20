@@ -1,0 +1,104 @@
+- committee: Over-All
+  chairperson:
+    picture: execom-mini/mora.jpg
+    name: Remegio D. Mora Jr.
+    position: Chairperson for Over-all Committee
+  members:
+    - name: Marie Rachel Coros
+    - name: Noreen Danielle Fabia
+    - name: Adrian Nigel Yap
+- committee: Academics
+  chairperson:
+    picture: execom-mini/mora.jpg
+    name: Remegio D. Mora Jr.
+    position: Chairperson for Academics Committee
+  members:
+    - name: Noveanne Banogon
+    - name: Maria Reggieleene Dionisio
+    - name: Miguel Jaime Encarnacion
+    - name: Lean Ramon Fernandez
+    - name: Marielle Carmela Garbo
+    - name: Nina Kathrina Pineda
+    - name: Jan Marcel Ragaza
+    - name: Ma. Felichie Ericka Valeriano
+- committee: Hotel Operations
+  chairperson:
+    picture: execom-mini/ong.jpg
+    name: Tyrone Lewis D. Ong
+    position: Chairperson for Hotel Operations Committee
+  members:
+    - name: Kates Jastin Aguilar
+    - name: Audris Bulatao
+    - name: Anna Patricia Derecho
+    - name: Margaret Anne Erum
+    - name: Guenavere Hao
+    - name: Mark Ericson Magdamo
+    - name: Dynamagne Pariñas
+    - name: Karlo Paulo Tamondong
+- committee: Operations
+  chairperson:
+    picture: execom-mini/calipay.jpg
+    name: Jane Kate S. Calipay
+    position: Vice-Chairperson for Operations Committee
+  members:
+    - name: Charles Joseph Anciado
+    - name: Daniel Ang
+    - name: Abigail Dimapilis
+    - name: Paolo Romeo Valentino Go
+    - name: Markin Lim
+- committee: Secretariat
+  chairperson:
+    picture: execom-mini/tungol.jpg
+    name: Regina Anne S. Tungol
+    position: Vice-Chairperson for Secretariat Committee
+  members:
+    - name: Deus Dulay
+    - name: Jefferson Fernandez
+    - name: Marko Enrico Lopez
+    - name: Raniel Christian Omli
+    - name: Khey Melanverg Saporas
+- committee: Finance
+  chairperson:
+    picture: execom-mini/belo.jpg
+    name: Clarisa G. Belo
+    position: Vice-Chairperson for Finance Committee
+  members:
+    - name: Janell Marie De Guzman
+    - name: Justo Franco Lacandalo
+    - name: Jeen Kathlee Lim
+    - name: Maicah Marie Pamfilo
+    - name: Ann Mary Michelle Rualo
+- committee: Electronic Data Processing
+  chairperson:
+    picture: execom-mini/palce.jpg
+    name: Jamaica Ida C. Palce
+    position: Vice-Chairperson for Electronic Data Processing Committee
+  members:
+    - name: Ma. Patricia Ysabel Amores
+    - name: Boenvel Castillo
+    - name: Joseph Marnic De Mesa
+    - name: Beverly Lumbera
+    - name: Divina Gracia Maderal
+    - name: Erol Stephen Pisec
+    - name: John Edward Tumang
+- committee: Logistics
+  chairperson:
+    picture: execom-mini/cua.jpg
+    name: Patrick Stephen M. Cua
+    position: Vice-Chairperson for Logistics Committee
+  members:
+    - name: Marc Russel Ann Lubangco
+    - name: Mike Osida
+    - name: Rodolfo Sabulao Jr.
+    - name: Rei-Anne Santos
+    - name: Ronaldo Sioco
+- committee: Membership
+  chairperson:
+    picture: execom-mini/sz.jpg
+    name: James Russell A. Sz
+    position: Vice-Chairperson for Membership Committee
+  members:
+    - name: Rebecca Chan
+    - name: Rechel De Torres
+    - name: Ma. Neiseria Ailah Tuquero
+    - name: Anna Isabelle Viloria

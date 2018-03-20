@@ -1,0 +1,107 @@
+- committee: Over-All
+  chairperson:
+    picture: default.jpg
+    name: Maria Reggieleene Dionisio
+    position: Chairperson for Over-all Committee
+  members:
+    - name: Noveanne Banogon
+    - name: Daniel Philip Barnachea
+    - name: Nieco Cecilio Hojilla
+    - name: Nina Kathrina Pineda
+    - name: Ma. Felichie Ericka Valeriano
+- committee: Academics
+  chairperson:
+    picture: default.jpg
+    name: Lyan David Juanico
+    position: Chairperson for Academics Committee
+  members:
+    - name: Dorothy Jean Aclan
+    - name: Frances Buendia
+    - name: Pam Louiese Chua
+    - name: Enika Marie Garcia
+    - name: Christine Intal
+    - name: Kent Joseph Limpot
+    - name: Elmo San Diego Jr
+    - name: Danika Marie Santos
+- committee: Hotel Operations
+  chairperson:
+    picture: execom-mini/ong.jpg
+    name: Tyrone Lewis Ong
+    position: Chairperson for Hotel Operations Committee
+  members:
+    - name: Kates Jastin Aguilar
+    - name: Anna Patricia Derecho
+    - name: Marie Camille Allen Flores
+    - name: Guenavere Hao
+    - name: Mark Ericson Magdamo
+    - name: Ivy Joy Navarro
+    - name: Zaire Xandra Reyes
+    - name: Angelica Sy
+    - name: Karlo Paulo Tamondong
+- committee: Operations
+  chairperson:
+    picture: default.jpg
+    name: Daniel Ang
+    position: Vice-Chairperson for Operations Committee
+  members:
+    - name: Paolo Romeo Valentino Sison Go
+    - name: Mary Zecille Lim
+    - name: Marvie Pagcaliwangan
+    - name: Rainier Albert Villanueva
+    - name: Glenda Yano
+- committee: Secretariat
+  chairperson:
+    picture: default.jpg
+    name: Rodolfo Sabulao Jr.
+    position: Vice-Chairperson for Secretariat Committee
+  members:
+    - name: Cheska Arla Agrupis
+    - name: Criselda Marie Esguerra
+    - name: Graham Edison Ragsac
+    - name: Ma. Neiseria Ailah Tuquero
+    - name: Von Adolph Undag
+- committee: Finance
+  chairperson:
+    picture: execom-mini/belo.jpg
+    name: Clarisa Belo
+    position: Vice-Chairperson for Finance Committee
+  members:
+    - name: Hannah Caceres
+    - name: Mariz Joy Regala
+    - name: Carlo Viel Saplan
+    - name: Art Aries Señoran
+    - name: Jennifer Sexon
+- committee: Electronic Data Processing
+  chairperson:
+    picture: default.jpg
+    name: Jose Manuel Peñaflor
+    position: Vice-Chairperson for Electronic Data Processing Committee
+  members:
+    - name: Sharkus Afable
+    - name: Edrese Aguirre
+    - name: Boenvel Castillo
+    - name: Ma. Celine Enriquez
+    - name: Luis Mari Grana
+    - name: Jamaica Ida Palce
+- committee: Logistics
+  chairperson:
+    picture: execom-mini/cua.jpg
+    name: Patrick Stephen Cua
+    position: Vice-Chairperson for Logistics Committee
+  members:
+    - name: Felson Dalaguete
+    - name: Kristel Mariz Marajas
+    - name: Ulpiano Sarmiento
+    - name: Artlyn Gem Señoran
+    - name: Demetrio Ronaldo Sioco
+- committee: Membership
+  chairperson:
+    picture: default.jpg
+    name: Maicah Marie Pamfilo
+    position: Vice-Chairperson for Membership Committee
+  members:
+    - name: Martin Alec Bautista
+    - name: Lorelei Joselle Bucu
+    - name: Joanna Krystle Mungcal
+    - name: Mark Lorenz Quezon
+    - name: Hanz Darryl Tiu
